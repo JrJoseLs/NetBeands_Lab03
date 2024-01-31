@@ -1,0 +1,20 @@
+
+---------FACTURA-----------
+Cedula: 13465
+Nombre: Antonio
+Tipo Compra: Credito
+
+---------Detalle-----------
+Nombre: producto 1
+Cantidad: 2
+Precio: 2
+Total: 4
+---------------------------
+Nombre: producto 2
+Cantidad: 5
+Precio: 5
+Total: 25
+
+---------Sumario-----------
+Productos Totales: 5.00
+total: 29.00

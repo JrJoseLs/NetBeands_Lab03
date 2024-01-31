@@ -1,0 +1,13 @@
+Cedula: 3121
+Nombre: Puñeta
+Tipo Compra: Efectivo
+---------Detalle-----------
+Nombre: producto 1
+Cantidad: 10
+Precio: 2
+Total: 20
+Nombre: producto 2
+Cantidad: 5
+Precio: 5
+Total: 25
+---------Sumario-----------Productos Totales: 2.00Precio Total: 45.00

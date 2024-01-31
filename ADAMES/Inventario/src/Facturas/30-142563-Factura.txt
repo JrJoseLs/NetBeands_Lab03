@@ -1,0 +1,26 @@
+
+---------FACTURA-----------
+Cedula: 142563
+Nombre: Teteo
+Tipo Compra: Cheque
+Fecha: 05-02-2021
+
+---------DETALLES----------
+Nombre: yamilet
+Cantidad: 2
+Precio: 5
+Total: 10
+---------------------------
+Nombre: huevo
+Cantidad: 2
+Precio: 7
+Total: 14
+---------------------------
+Nombre: pan
+Cantidad: 10
+Precio: 7
+Total: 70
+
+---------SUMARIO-----------
+Productos Totales: 3.00
+Precio Total: 94.00

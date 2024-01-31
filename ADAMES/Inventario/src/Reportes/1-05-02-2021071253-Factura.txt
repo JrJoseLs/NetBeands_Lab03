@@ -1,0 +1,344 @@
+
+         FACTURA
+
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: Lucas
+Vendedor: Administrador
+Fecha: 2021-01-29
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+Compra TOTAL: 4
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-29
+TipoCompra: Efectivo
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+Compra TOTAL: 4
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-30
+TipoCompra: Efectivo
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 10
+Precio Unitario: 2
+Total Productos: 20
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 5
+Precio Unitario: 5
+Total Productos: 25
+
+Compra TOTAL: 45
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 4
+Precio Unitario: 5
+Total Productos: 20
+
+Compra TOTAL: 24
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 2
+Precio Unitario: 5
+Total Productos: 10
+
+Compra TOTAL: 14
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 2
+Precio Unitario: 5
+Total Productos: 10
+
+Compra TOTAL: 14
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 5
+Precio Unitario: 2
+Total Productos: 10
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 2
+Precio Unitario: 5
+Total Productos: 10
+
+Compra TOTAL: 20
+---------ENCABEZADO----------
+
+Cedula: 1231
+Cliente: luis
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 14
+Precio Unitario: 2
+Total Productos: 28
+
+Compra TOTAL: 28
+---------ENCABEZADO----------
+
+Cedula: 123456
+Cliente: jose
+Vendedor: Administrador
+Fecha: 2021-01-29
+TipoCompra: Cheque
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 5
+Precio Unitario: 2
+Total Productos: 10
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 2
+Precio Unitario: 5
+Total Productos: 10
+
+Compra TOTAL: 20
+---------ENCABEZADO----------
+
+Cedula: 123456
+Cliente: jose
+Vendedor: Administrador
+Fecha: 2021-01-29
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 5
+Precio Unitario: 5
+Total Productos: 25
+
+Compra TOTAL: 29
+---------ENCABEZADO----------
+
+Cedula: 123456
+Cliente: jose
+Vendedor: Administrador
+Fecha: 2021-01-29
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 5
+Precio Unitario: 5
+Total Productos: 25
+
+Compra TOTAL: 29
+---------ENCABEZADO----------
+
+Cedula: 123456
+Cliente: jose
+Vendedor: Administrador
+Fecha: 2021-01-30
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 5
+Precio Unitario: 5
+Total Productos: 25
+
+Compra TOTAL: 29
+---------ENCABEZADO----------
+
+Cedula: 123456
+Cliente: jose
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 1
+Cliente: 2
+Precio Unitario: 2
+Total Productos: 4
+
+---------------------------
+
+Nombre: producto 2
+Cliente: 3
+Precio Unitario: 5
+Total Productos: 15
+
+Compra TOTAL: 19
+---------ENCABEZADO----------
+
+Cedula: 123456
+Cliente: jose
+Vendedor: Administrador
+Fecha: 2021-01-31
+TipoCompra: Credito
+---------DETALLES----------
+
+Nombre: producto 2
+Cliente: 5
+Precio Unitario: 5
+Total Productos: 25
+
+---------------------------
+
+Nombre: producto 1
+Cliente: 4
+Precio Unitario: 2
+Total Productos: 8
+
+Compra TOTAL: 33
+---------ENCABEZADO----------
+
+Cedula: 40237764770
+Cliente: Luis
+Vendedor: Administrador
+Fecha: 2021-02-04
+TipoCompra: Efectivo
+---------DETALLES----------
+
+Nombre: pan
+Cliente: 5
+Precio Unitario: 7
+Total Productos: 35
+
+---------------------------
+
+Nombre: huevo
+Cliente: 4
+Precio Unitario: 7
+Total Productos: 28
+
+Compra TOTAL: 63
+---------ENCABEZADO----------
+
+Cedula: 142563
+Cliente: Teteo
+Vendedor: Administrador
+Fecha: 2021-02-05
+TipoCompra: Cheque
+---------DETALLES----------
+
+Nombre: yamilet
+Cliente: 2
+Precio Unitario: 5
+Total Productos: 10
+
+---------------------------
+
+Nombre: huevo
+Cliente: 2
+Precio Unitario: 7
+Total Productos: 14
+
+---------------------------
+
+Nombre: pan
+Cliente: 10
+Precio Unitario: 7
+Total Productos: 70
+
+Compra TOTAL: 94
+
+---------SUMARIO-----------
+

@@ -1,0 +1,21 @@
+
+---------FACTURA-----------
+Cedula: 123456
+Nombre: jose
+Tipo Compra: Credito
+Fecha: 31-01-2021
+
+---------Detalle-----------
+Nombre: producto 2
+Cantidad: 5
+Precio: 5
+Total: 25
+---------------------------
+Nombre: producto 1
+Cantidad: 4
+Precio: 2
+Total: 8
+---------------------------
+---------Sumario-----------
+Productos Totales: 2.00
+Precio Total: 33.00

@@ -1,0 +1,21 @@
+
+---------FACTURA-----------
+Cedula: 40237764770
+Nombre: Luis
+Tipo Compra: Efectivo
+Fecha: 04-02-2021
+
+---------DETALLES----------
+Nombre: pan
+Cantidad: 5
+Precio: 7
+Total: 35
+---------------------------
+Nombre: huevo
+Cantidad: 4
+Precio: 7
+Total: 28
+
+---------SUMARIO-----------
+Productos Totales: 2.00
+Precio Total: 63.00

@@ -1,0 +1,21 @@
+
+---------FACTURA-----------
+Cedula: 165416456
+Nombre: MiaKhalifa
+Tipo Compra: Credito
+Fecha: 31-01-2021
+
+---------Detalle-----------
+Nombre: producto 1
+Cantidad: 2
+Precio: 2
+Total: 4
+--------------------------
+Nombre: producto 2
+Cantidad: 3
+Precio: 5
+Total: 15
+
+---------Sumario-----------
+Productos Totales: 2.00
+Precio Total: 19.00

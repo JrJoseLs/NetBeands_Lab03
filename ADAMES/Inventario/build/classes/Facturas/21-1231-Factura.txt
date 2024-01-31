@@ -1,0 +1,21 @@
+
+---------FACTURA-----------
+Cedula: 1231
+Nombre: luis
+Tipo Compra: Credito
+Fecha: 31-01-2021
+
+---------Detalle-----------
+Nombre: producto 1
+Cantidad: 5
+Precio: 2
+Total: 10
+---------------------------
+Nombre: producto 2
+Cantidad: 2
+Precio: 5
+Total: 10
+
+---------Sumario-----------
+Productos Totales: 2.00
+Precio Total: 20.00

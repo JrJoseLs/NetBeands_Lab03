@@ -1,0 +1,21 @@
+
+---------FACTURA-----------
+Cedula: 123123123
+Nombre: Laura
+Tipo Compra: Efectivo
+Fecha: 05-02-2021
+
+---------DETALLES----------
+Nombre: yamilet
+Cantidad: 2
+Precio: 5
+Total: 10
+---------------------------
+Nombre: pan
+Cantidad: 1
+Precio: 7
+Total: 7
+
+---------SUMARIO-----------
+Productos Totales: 2.00
+Precio Total: 17.00
